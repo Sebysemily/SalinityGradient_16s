@@ -1,0 +1,7 @@
+*/*.fastq.gz
+*/*/*.fastq.gz
+*.fastq.gz 
+.Rproj.user 
+.Rhistory 
+.RData 
+.Ruserdata
